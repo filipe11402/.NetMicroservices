@@ -1,0 +1,15 @@
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure.Repository\bin\Debug\net5.0\Catalog.Infrastructure.Repository.deps.json
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure.Repository\bin\Debug\net5.0\Catalog.Infrastructure.Repository.dll
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure.Repository\bin\Debug\net5.0\ref\Catalog.Infrastructure.Repository.dll
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure.Repository\bin\Debug\net5.0\Catalog.Infrastructure.Repository.pdb
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure.Repository\bin\Debug\net5.0\Catalog.Infrastructure.dll
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure.Repository\bin\Debug\net5.0\Catalog.Infrastructure.pdb
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure.Repository\obj\Debug\net5.0\Catalog.Infrastructure.Repository.csproj.AssemblyReference.cache
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure.Repository\obj\Debug\net5.0\Catalog.Infrastructure.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure.Repository\obj\Debug\net5.0\Catalog.Infrastructure.Repository.AssemblyInfoInputs.cache
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure.Repository\obj\Debug\net5.0\Catalog.Infrastructure.Repository.AssemblyInfo.cs
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure.Repository\obj\Debug\net5.0\Catalog.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure.Repository\obj\Debug\net5.0\Catalog.Infrastructure.Repository.csproj.CopyComplete
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure.Repository\obj\Debug\net5.0\Catalog.Infrastructure.Repository.dll
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure.Repository\obj\Debug\net5.0\ref\Catalog.Infrastructure.Repository.dll
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure.Repository\obj\Debug\net5.0\Catalog.Infrastructure.Repository.pdb

@@ -1,0 +1,12 @@
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure\bin\Debug\net5.0\Catalog.Infrastructure.deps.json
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure\bin\Debug\net5.0\Catalog.Infrastructure.dll
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure\bin\Debug\net5.0\ref\Catalog.Infrastructure.dll
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure\bin\Debug\net5.0\Catalog.Infrastructure.pdb
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net5.0\Catalog.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net5.0\Catalog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net5.0\Catalog.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net5.0\Catalog.Infrastructure.AssemblyInfo.cs
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net5.0\Catalog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net5.0\Catalog.Infrastructure.dll
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net5.0\ref\Catalog.Infrastructure.dll
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net5.0\Catalog.Infrastructure.pdb
