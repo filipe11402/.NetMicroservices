@@ -1,0 +1,45 @@
+services:
+  basket.api:
+    build:
+      context: C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices
+      dockerfile: src/Basket/Basket.API/Dockerfile
+    container_name: basket.api
+    depends_on:
+      basketdb:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      RedisConfig:ConnectionString: basketdb:6379
+    image: basketapi
+    ports:
+    - published: 8001
+      target: 80
+  basketdb:
+    image: redis:alpine
+  catalog.api:
+    build:
+      context: C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices
+      dockerfile: src/Services/Catalog/Catalog.API/Dockerfile
+    container_name: catalog.api
+    depends_on:
+      catalogdb:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      DatabaseSettings:ConnectionString: mongodb://catalogdb:27017
+    image: catalogapi
+    ports:
+    - published: 8000
+      target: 80
+  catalogdb:
+    container_name: catalogdb
+    image: mongo
+    ports:
+    - published: 27017
+      target: 27017
+    restart: always
+    volumes:
+    - mongo_data:/data/db:rw
+version: '3.4'
+volumes:
+  mongo_data: {}
