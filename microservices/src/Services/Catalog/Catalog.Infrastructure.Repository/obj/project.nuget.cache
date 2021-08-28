@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cbw0+SsX/JGMjdcSFOQsmC2Z0n70mdKU5+6TvZyytlMR6Mo6x1bAvRpGpOICbVAUhrbapOF2jAnLGOM4zg9/EA==",
+  "dgSpecHash": "MUDmI+tYERaVn6KVWISPh+94D82W2j/flikDOpYLLeb9A5a7ycGiIr7b3WAR87RCegLhgWMsVNOxzqE777kIyg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Filipe Encarnacao\\Desktop\\C#\\MICROSERVICES\\microservices\\src\\Services\\Catalog\\Catalog.Infrastructure.Repository\\Catalog.Infrastructure.Repository.csproj",
   "expectedPackageFiles": [
