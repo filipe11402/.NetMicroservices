@@ -1,0 +1,12 @@
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Basket\Basket.Infrastructure\bin\Debug\net5.0\Basket.Infrastructure.deps.json
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Basket\Basket.Infrastructure\bin\Debug\net5.0\Basket.Infrastructure.dll
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Basket\Basket.Infrastructure\bin\Debug\net5.0\ref\Basket.Infrastructure.dll
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Basket\Basket.Infrastructure\bin\Debug\net5.0\Basket.Infrastructure.pdb
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Basket\Basket.Infrastructure\obj\Debug\net5.0\Basket.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Basket\Basket.Infrastructure\obj\Debug\net5.0\Basket.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Basket\Basket.Infrastructure\obj\Debug\net5.0\Basket.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Basket\Basket.Infrastructure\obj\Debug\net5.0\Basket.Infrastructure.AssemblyInfo.cs
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Basket\Basket.Infrastructure\obj\Debug\net5.0\Basket.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Basket\Basket.Infrastructure\obj\Debug\net5.0\Basket.Infrastructure.dll
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Basket\Basket.Infrastructure\obj\Debug\net5.0\ref\Basket.Infrastructure.dll
+C:\Users\Filipe Encarnacao\Desktop\C#\MICROSERVICES\microservices\src\Basket\Basket.Infrastructure\obj\Debug\net5.0\Basket.Infrastructure.pdb
